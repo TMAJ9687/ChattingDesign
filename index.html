@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Modern Chat Interface</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+  </head>
+  <body>
+    <div class="chat-container">
+      <!-- Sidebar -->
+      <div class="sidebar">
+        <div class="sidebar-header">
+          <img src="https://via.placeholder.com/40" alt="Profile" class="profile-img">
+          <h2>Chat App</h2>
+        </div>
+        <div class="search-box">
+          <i class="fas fa-search"></i>
+          <input type="text" placeholder="Search chats...">
+        </div>
+        <div class="chat-list">
+          <!-- Chat items will be dynamically added here -->
+        </div>
+        <div class="sidebar-footer">
+          <button class="new-chat-btn">
+            <i class="fas fa-plus"></i> New Chat
+          </button>
+        </div>
+      </div>
+
+      <!-- Main Chat Area -->
+      <div class="main-chat">
+        <div class="chat-header">
+          <div class="chat-user-info">
+            <img src="https://via.placeholder.com/40" alt="User" class="profile-img">
+            <div class="user-details">
+              <h3>John Doe</h3>
+              <span class="status">Online</span>
+            </div>
+          </div>
+          <div class="chat-actions">
+            <button><i class="fas fa-phone"></i></button>
+            <button><i class="fas fa-video"></i></button>
+          </div>
+        </div>
+
+        <div class="chat-messages">
+          <!-- Messages will be dynamically added here -->
+        </div>
+
+        <div class="chat-input">
+          <button class="attach-btn">
+            <i class="fas fa-paperclip"></i>
+          </button>
+          <input type="text" placeholder="Type a message...">
+          <button class="send-btn">
+            <i class="fas fa-paper-plane"></i>
+          </button>
+        </div>
+      </div>
+    </div>
+    <script src="script.js"></script>
+  </body>
+</html>

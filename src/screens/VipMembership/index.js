@@ -1,0 +1,1 @@
+export { VipMembership } from "./VipMembership";

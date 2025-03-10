@@ -1,0 +1,109 @@
+.button {
+  align-items: flex-start;
+  display: inline-flex;
+  position: relative;
+}
+
+.button .class-94 {
+  background-color: #12b669 !important;
+}
+
+.button .class-95 {
+  background-color: var(--brand-300) !important;
+}
+
+.button .class-96 {
+  background-color: var(--error-300) !important;
+}
+
+.button .class-97 {
+  background-color: var(--gray-300) !important;
+}
+
+.button .class-98 {
+  color: var(--brand-700) !important;
+}
+
+.button .class-99 {
+  color: var(--error-700) !important;
+}
+
+.button .class-100 {
+  color: var(--gray-500) !important;
+}
+
+.button .class-101 {
+  color: var(--gray-700) !important;
+}
+
+.button .class-102 {
+  color: var(--brand-300) !important;
+}
+
+.button .class-103 {
+  color: var(--error-300) !important;
+}
+
+.button .class-104 {
+  color: var(--gray-300) !important;
+}
+
+.button .class-105 {
+  color: var(--brand-800) !important;
+}
+
+.button .class-106 {
+  color: var(--error-800) !important;
+}
+
+.button .class-107 {
+  color: var(--gray-600) !important;
+}
+
+.button .class-108 {
+  color: var(--gray-800) !important;
+}
+
+.button .circle-2 {
+  height: 20px !important;
+  position: relative !important;
+  width: 20px !important;
+}
+
+.button .circle-932 {
+  height: 24px !important;
+  position: relative !important;
+  width: 24px !important;
+}
+
+.button.destructive-3-true {
+  border-radius: 8px;
+}
+
+.button.secondary-gray {
+  border-radius: 8px;
+}
+
+.button.secondary-color {
+  border-radius: 8px;
+}
+
+.button.primary {
+  border-radius: 8px;
+}
+
+.button.tertiary-color {
+  border-radius: 8px;
+}
+
+.button.tertiary-gray {
+  border-radius: 8px;
+}
+
+.button.destructive-3-true.secondary-color.focused.size-5-sm.icon-false {
+  box-shadow: var(--shadow-xs-focused-4px-error-100);
+}
+
+.button.icon-only.focused.size-5-sm.destructive-3-false.secondary-gray {
+  box-shadow: var(--shadow-xs-focused-4px-gray-100);
+}

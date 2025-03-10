@@ -1,0 +1,1 @@
+export { AvatarModalLight } from "./AvatarModalLight";

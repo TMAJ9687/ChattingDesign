@@ -1,0 +1,995 @@
+.account-deletion-VIP {
+  background-color: #edf4f7;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.account-deletion-VIP .overlap-wrapper-2 {
+  background-color: var(--neutral-100);
+  height: 1024px;
+  overflow: hidden;
+  width: 1440px;
+}
+
+.account-deletion-VIP .overlap-6 {
+  height: 1064px;
+  position: relative;
+}
+
+.account-deletion-VIP .header-11 {
+  align-items: center;
+  background-color: transparent;
+  box-shadow: var(--shadow-xs);
+  display: flex;
+  height: 80px;
+  justify-content: space-between;
+  left: 0;
+  padding: 0px 45px;
+  position: absolute;
+  top: 0;
+  width: 1440px;
+}
+
+.account-deletion-VIP .text-wrapper-6 {
+  color: #1b1f26;
+  font-family: "Lato", Helvetica;
+  font-size: 26px;
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: 39px;
+  position: relative;
+  width: 200px;
+}
+
+.account-deletion-VIP .group-9 {
+  height: 44px;
+  position: relative;
+  width: 514px;
+}
+
+.account-deletion-VIP .group-10 {
+  height: 44px;
+  left: 117px;
+  position: relative;
+  width: 397px;
+}
+
+.account-deletion-VIP .group-11 {
+  height: 44px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 180px;
+}
+
+.account-deletion-VIP .switcher-7 {
+  left: 0 !important;
+  position: absolute !important;
+  top: 12px !important;
+}
+
+.account-deletion-VIP .switcher-8 {
+  background-color: var(--neutral-300) !important;
+}
+
+.account-deletion-VIP .language-switcher-3 {
+  left: 136px !important;
+  position: absolute !important;
+  top: 0 !important;
+}
+
+.account-deletion-VIP .group-12 {
+  height: 40px;
+  left: 204px;
+  position: absolute;
+  top: 0;
+  width: 193px;
+}
+
+.account-deletion-VIP .group-13 {
+  height: 40px;
+}
+
+.account-deletion-VIP .avatar-label-group-2 {
+  align-items: center;
+  display: inline-flex;
+  gap: 12px;
+  position: relative;
+}
+
+.account-deletion-VIP .avatar-2 {
+  background-color: var(--neutral-200);
+  border: 1px solid;
+  border-color: var(--secondary-100);
+  border-radius: 200px;
+  height: 40px;
+  position: relative;
+  width: 40px;
+}
+
+.account-deletion-VIP .overlap-group-5 {
+  height: 34px;
+  left: 8px;
+  position: relative;
+  top: 8px;
+  width: 34px;
+}
+
+.account-deletion-VIP .icon-instance-node {
+  height: 24px !important;
+  left: 0 !important;
+  position: absolute !important;
+  top: 0 !important;
+  width: 24px !important;
+}
+
+.account-deletion-VIP .avatar-online-2 {
+  background-color: #12b669;
+  border: 1.5px solid;
+  border-color: var(--white);
+  border-radius: 5px;
+  height: 13px;
+  left: 20px;
+  position: absolute;
+  top: 20px;
+  width: 13px;
+}
+
+.account-deletion-VIP .text-and-supporting-4 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+}
+
+.account-deletion-VIP .text-16 {
+  color: var(--text-800);
+  font-family: var(--text-sm-semibold-font-family);
+  font-size: var(--text-sm-semibold-font-size);
+  font-style: var(--text-sm-semibold-font-style);
+  font-weight: var(--text-sm-semibold-font-weight);
+  letter-spacing: var(--text-sm-semibold-letter-spacing);
+  line-height: var(--text-sm-semibold-line-height);
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.account-deletion-VIP .supporting-text-4 {
+  color: var(--text-600);
+  font-family: var(--text-sm-regular-font-family);
+  font-size: var(--text-sm-regular-font-size);
+  font-style: var(--text-sm-regular-font-style);
+  font-weight: var(--text-sm-regular-font-weight);
+  letter-spacing: var(--text-sm-regular-letter-spacing);
+  line-height: var(--text-sm-regular-line-height);
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.account-deletion-VIP .frame-7 {
+  align-items: flex-start;
+  display: flex;
+  gap: 80px;
+  justify-content: flex-end;
+  left: 0;
+  padding: 24px 45px;
+  position: absolute;
+  top: 829px;
+  width: 1440px;
+}
+
+.account-deletion-VIP .text-wrapper-7 {
+  color: var(--text-600);
+  font-family: "Lato", Helvetica;
+  font-size: 18px;
+  font-weight: 600;
+  letter-spacing: 0;
+  line-height: 27px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.account-deletion-VIP .main {
+  align-items: flex-start;
+  background-color: var(--gray-25);
+  border-radius: 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 32px;
+  left: 45px;
+  padding: 32px 0px 48px;
+  position: absolute;
+  top: 80px;
+  width: 1350px;
+}
+
+.account-deletion-VIP .container-wrapper {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 24px;
+  position: relative;
+  width: 100%;
+}
+
+.account-deletion-VIP .container {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 24px;
+  padding: 0px 32px;
+  position: relative;
+  width: 100%;
+}
+
+.account-deletion-VIP .div-4 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 20px;
+  position: relative;
+  width: 100%;
+}
+
+.account-deletion-VIP .text-17 {
+  align-self: stretch;
+  color: var(--text-1000);
+  font-family: var(--display-sm-medium-font-family);
+  font-size: var(--display-sm-medium-font-size);
+  font-style: var(--display-sm-medium-font-style);
+  font-weight: var(--display-sm-medium-font-weight);
+  letter-spacing: var(--display-sm-medium-letter-spacing);
+  line-height: var(--display-sm-medium-line-height);
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.account-deletion-VIP .horizontal-tabs {
+  align-self: stretch;
+  height: 38px;
+  position: relative;
+  width: 100%;
+}
+
+.account-deletion-VIP .overlap-group-6 {
+  height: 38px;
+  position: relative;
+  width: 1286px;
+}
+
+.account-deletion-VIP .divider {
+  background-color: var(--neutral-200);
+  height: 1px;
+  left: 0;
+  position: absolute;
+  top: 37px;
+  width: 1286px;
+}
+
+.account-deletion-VIP .tabs {
+  align-items: flex-start;
+  display: inline-flex;
+  gap: 16px;
+  left: 0;
+  position: absolute;
+  top: 0;
+}
+
+.account-deletion-VIP .tab-button-base {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  justify-content: center;
+  position: relative;
+}
+
+.account-deletion-VIP .content-10 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 8px;
+  justify-content: center;
+  padding: 0px 4px 16px;
+  position: relative;
+}
+
+.account-deletion-VIP .text-18 {
+  color: var(--secondary-500);
+  font-family: var(--text-sm-medium-font-family);
+  font-size: var(--text-sm-medium-font-size);
+  font-style: var(--text-sm-medium-font-style);
+  font-weight: var(--text-sm-medium-font-weight);
+  letter-spacing: var(--text-sm-medium-letter-spacing);
+  line-height: var(--text-sm-medium-line-height);
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.account-deletion-VIP .bottom-border {
+  align-self: stretch;
+  background-color: var(--secondary-500);
+  height: 2px;
+  position: relative;
+  width: 100%;
+}
+
+.account-deletion-VIP .text-19 {
+  color: var(--text-600);
+  font-family: var(--text-sm-medium-font-family);
+  font-size: var(--text-sm-medium-font-size);
+  font-style: var(--text-sm-medium-font-style);
+  font-weight: var(--text-sm-medium-font-weight);
+  letter-spacing: var(--text-sm-medium-letter-spacing);
+  line-height: var(--text-sm-medium-line-height);
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.account-deletion-VIP .bottom-border-2 {
+  align-self: stretch;
+  height: 2px;
+  position: relative;
+  width: 100%;
+}
+
+.account-deletion-VIP .section-header {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 20px;
+  padding: 0px 0px 1px;
+  position: relative;
+  width: 100%;
+}
+
+.account-deletion-VIP .content-11 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 16px;
+  position: relative;
+  width: 100%;
+}
+
+.account-deletion-VIP .text-and-supporting-5 {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  gap: 4px;
+  position: relative;
+}
+
+.account-deletion-VIP .text-20 {
+  align-self: stretch;
+  color: var(--text-1000);
+  font-family: var(--text-lg-medium-font-family);
+  font-size: var(--text-lg-medium-font-size);
+  font-style: var(--text-lg-medium-font-style);
+  font-weight: var(--text-lg-medium-font-weight);
+  letter-spacing: var(--text-lg-medium-letter-spacing);
+  line-height: var(--text-lg-medium-line-height);
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.account-deletion-VIP .supporting-text-5 {
+  align-self: stretch;
+  color: var(--text-600);
+  font-family: var(--text-sm-regular-font-family);
+  font-size: var(--text-sm-regular-font-size);
+  font-style: var(--text-sm-regular-font-style);
+  font-weight: var(--text-sm-regular-font-weight);
+  letter-spacing: var(--text-sm-regular-letter-spacing);
+  line-height: var(--text-sm-regular-line-height);
+  position: relative;
+}
+
+.account-deletion-VIP .actions-2 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 12px;
+  position: relative;
+}
+
+.account-deletion-VIP .button-10 {
+  flex: 0 0 auto !important;
+}
+
+.account-deletion-VIP .design-component-instance-node-2 {
+  color: var(--text-800) !important;
+}
+
+.account-deletion-VIP .button-11 {
+  background-color: var(--text-0) !important;
+  border-color: var(--gray-300) !important;
+  flex: 0 0 auto !important;
+}
+
+.account-deletion-VIP .button-12 {
+  color: var(--text-0) !important;
+}
+
+.account-deletion-VIP .button-13 {
+  background-color: var(--primary-500) !important;
+  border-color: var(--primary-500) !important;
+  flex: 0 0 auto !important;
+}
+
+.account-deletion-VIP .divider-2 {
+  align-self: stretch;
+  background-color: var(--neutral-200);
+  height: 1px;
+  position: relative;
+  width: 100%;
+}
+
+.account-deletion-VIP .content-12 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 32px;
+  position: relative;
+  width: 100%;
+}
+
+.account-deletion-VIP .text-and-supporting-6 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  width: 280px;
+}
+
+.account-deletion-VIP .text-21 {
+  align-self: stretch;
+  color: var(--text-800);
+  font-family: var(--text-sm-medium-font-family);
+  font-size: var(--text-sm-medium-font-size);
+  font-style: var(--text-sm-medium-font-style);
+  font-weight: var(--text-sm-medium-font-weight);
+  letter-spacing: var(--text-sm-medium-letter-spacing);
+  line-height: var(--text-sm-medium-line-height);
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.account-deletion-VIP .avatar-and-file {
+  align-items: flex-end;
+  display: flex;
+  justify-content: space-between;
+  position: relative;
+  width: 512px;
+}
+
+.account-deletion-VIP .group-14 {
+  height: 81px;
+  position: relative;
+  width: 218px;
+}
+
+.account-deletion-VIP .group-15 {
+  height: 81px;
+  position: relative;
+}
+
+.account-deletion-VIP .avatar-3 {
+  height: 84px;
+  left: -4px;
+  position: absolute;
+  top: -3px;
+  width: 84px;
+}
+
+.account-deletion-VIP .group-16 {
+  height: 81px;
+  left: 88px;
+  position: absolute;
+  top: 0;
+  width: 130px;
+}
+
+.account-deletion-VIP .button-14 {
+  left: 0 !important;
+  position: absolute !important;
+  top: 0 !important;
+}
+
+.account-deletion-VIP .button-15 {
+  left: 0 !important;
+  position: absolute !important;
+  top: 45px !important;
+}
+
+.account-deletion-VIP .switcher-9 {
+  align-items: center !important;
+  flex: 0 0 auto !important;
+  justify-content: center !important;
+}
+
+.account-deletion-VIP .switcher-10 {
+  font-family: "Lato", Helvetica !important;
+  font-size: 14px !important;
+  font-style: unset !important;
+  font-weight: 500 !important;
+  letter-spacing: 0 !important;
+  line-height: 20px !important;
+}
+
+.account-deletion-VIP .text-22 {
+  color: var(--text-800);
+  font-family: var(--text-sm-medium-font-family);
+  font-size: var(--text-sm-medium-font-size);
+  font-style: var(--text-sm-medium-font-style);
+  font-weight: var(--text-sm-medium-font-weight);
+  letter-spacing: var(--text-sm-medium-letter-spacing);
+  line-height: var(--text-sm-medium-line-height);
+  margin-top: -1.00px;
+  position: relative;
+  width: 280px;
+}
+
+.account-deletion-VIP .input-fields {
+  align-items: flex-start;
+  display: flex;
+  gap: 24px;
+  position: relative;
+  width: 512px;
+}
+
+.account-deletion-VIP .input-field-9 {
+  flex: 1 !important;
+  flex-grow: 1 !important;
+  width: unset !important;
+}
+
+.account-deletion-VIP .input-field-10 {
+  color: var(--text-1000) !important;
+}
+
+.account-deletion-VIP .design-component-instance-node-3 {
+  background-color: var(--text-0) !important;
+  border-color: var(--neutral-300) !important;
+}
+
+.account-deletion-VIP .input-field-11 {
+  width: 512px !important;
+}
+
+.account-deletion-VIP .input-field-12 {
+  background-color: var(--text-0) !important;
+  border-color: var(--neutral-200) !important;
+}
+
+.account-deletion-VIP .button-16 {
+  border: 1px solid !important;
+  border-color: var(--primary-500) !important;
+  flex: 0 0 auto !important;
+}
+
+.account-deletion-VIP .group-17 {
+  height: 46px;
+  position: relative;
+  width: 795px;
+}
+
+.account-deletion-VIP .overlap-group-7 {
+  height: 46px;
+  position: relative;
+}
+
+.account-deletion-VIP .content-13 {
+  align-items: flex-start;
+  display: flex;
+  gap: 32px;
+  left: 0;
+  position: absolute;
+  top: 2px;
+  width: 552px;
+}
+
+.account-deletion-VIP .input-field-base-wrapper {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  width: 53px;
+}
+
+.account-deletion-VIP .input-field-base-2 {
+  align-self: stretch !important;
+  flex: 0 0 auto !important;
+  width: 100% !important;
+}
+
+.account-deletion-VIP .input-field-base-3 {
+  color: var(--text-600) !important;
+}
+
+.account-deletion-VIP .content-14 {
+  align-items: flex-start;
+  display: flex;
+  gap: 32px;
+  left: 430px;
+  position: absolute;
+  top: 0;
+  width: 365px;
+}
+
+.account-deletion-VIP .input-field-base-instance-wrapper {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-right: -31.00px;
+  position: relative;
+  width: 84px;
+}
+
+.account-deletion-VIP .input-with-label-2 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  position: relative;
+  width: 510px;
+}
+
+.account-deletion-VIP .input-2 {
+  align-items: center;
+  background-color: var(--text-100);
+  border: 1px solid;
+  border-color: var(--neutral-300);
+  border-radius: 8px;
+  box-shadow: 0px 1px 2px #1018280d;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 8px;
+  margin-right: -3.00px;
+  overflow: hidden;
+  padding: 10px 14px;
+  position: relative;
+  width: 513px;
+}
+
+.account-deletion-VIP .content-15 {
+  align-items: center;
+  display: flex;
+  flex: 1;
+  flex-grow: 1;
+  gap: 8px;
+  position: relative;
+}
+
+.account-deletion-VIP .US {
+  height: 20px;
+  position: relative;
+  width: 20px;
+}
+
+.account-deletion-VIP .text-23 {
+  color: var(--text-600);
+  flex: 1;
+  font-family: var(--text-md-regular-font-family);
+  font-size: var(--text-md-regular-font-size);
+  font-style: var(--text-md-regular-font-style);
+  font-weight: var(--text-md-regular-font-weight);
+  letter-spacing: var(--text-md-regular-letter-spacing);
+  line-height: var(--text-md-regular-line-height);
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.account-deletion-VIP .chevron-down-wrapper {
+  height: 16px;
+  position: relative;
+  width: 16px;
+}
+
+.account-deletion-VIP .chevron-down-2 {
+  height: 20px;
+  left: -2px;
+  position: absolute;
+  top: -2px;
+  width: 20px;
+}
+
+.account-deletion-VIP .group-18 {
+  height: 154px;
+  position: relative;
+  width: 825px;
+}
+
+.account-deletion-VIP .text-and-supporting-7 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 280px;
+}
+
+.account-deletion-VIP .frame-8 {
+  align-items: flex-start;
+  background-color: var(--neutral-0);
+  border: 1px solid;
+  border-color: var(--text-100);
+  border-radius: 8px;
+  display: flex;
+  gap: 16px;
+  height: 154px;
+  left: 312px;
+  padding: 10px 14px;
+  position: absolute;
+  top: 0;
+  width: 513px;
+}
+
+.account-deletion-VIP .tag {
+  align-items: center;
+  background-color: #ffffffcc;
+  border: 0px none;
+  border-radius: 8px;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 3px;
+  padding: 7px 8px;
+  position: relative;
+}
+
+.account-deletion-VIP .text-wrapper-8 {
+  color: #ca6702;
+  font-family: var(--footnote-description-font-family);
+  font-size: var(--footnote-description-font-size);
+  font-style: var(--footnote-description-font-style);
+  font-weight: var(--footnote-description-font-weight);
+  letter-spacing: var(--footnote-description-letter-spacing);
+  line-height: var(--footnote-description-line-height);
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.account-deletion-VIP .x {
+  height: 12px;
+  position: relative;
+  width: 12px;
+}
+
+.account-deletion-VIP .text-wrapper-9 {
+  color: #94d2bd;
+  font-family: var(--footnote-description-font-family);
+  font-size: var(--footnote-description-font-size);
+  font-style: var(--footnote-description-font-style);
+  font-weight: var(--footnote-description-font-weight);
+  letter-spacing: var(--footnote-description-letter-spacing);
+  line-height: var(--footnote-description-line-height);
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.account-deletion-VIP .text-wrapper-10 {
+  color: var(--calendula-gold-6);
+  font-family: var(--footnote-description-font-family);
+  font-size: var(--footnote-description-font-size);
+  font-style: var(--footnote-description-font-style);
+  font-weight: var(--footnote-description-font-weight);
+  letter-spacing: var(--footnote-description-letter-spacing);
+  line-height: var(--footnote-description-line-height);
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.account-deletion-VIP .button-base-wrapper {
+  align-items: flex-start;
+  border-radius: 8px;
+  display: inline-flex;
+  flex: 0 0 auto;
+  position: relative;
+}
+
+.account-deletion-VIP .circle-wrapper {
+  align-items: center;
+  background-color: var(--neutral-100);
+  border: 1px solid;
+  border-color: var(--neutral-200);
+  border-radius: 8px;
+  box-shadow: 0px 1px 2px #1018280d;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 8px;
+  justify-content: center;
+  overflow: hidden;
+  padding: 8px;
+  position: relative;
+}
+
+.account-deletion-VIP .circle-3 {
+  background-image: url(../../../static/img/plus-1.svg);
+  background-size: 100% 100%;
+  height: 20px;
+  position: relative;
+  width: 20px;
+}
+
+.account-deletion-VIP .button-instance-wrapper {
+  align-items: flex-end;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 8px;
+  justify-content: center;
+  position: relative;
+  width: 1286px;
+}
+
+.account-deletion-VIP .rectangle {
+  height: 1024px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1440px;
+}
+
+.account-deletion-VIP .modal {
+  align-items: center;
+  background-color: var(--neutral-0);
+  border-radius: 12px;
+  box-shadow: 0px 8px 8px -4px #10182808, 0px 20px 24px -4px #10182814;
+  display: flex;
+  flex-direction: column;
+  gap: 32px;
+  left: 520px;
+  overflow: hidden;
+  padding: 24px;
+  position: absolute;
+  top: 285px;
+  width: 400px;
+}
+
+.account-deletion-VIP .featured-icon {
+  background-color: var(--danger-100);
+  border: 8px solid;
+  border-color: var(--neutral-0);
+  border-radius: 28px;
+  height: 56px;
+  margin-left: -4.00px;
+  margin-top: -4.00px;
+  position: relative;
+  width: 56px;
+}
+
+.account-deletion-VIP .alert-circle-2 {
+  height: 24px;
+  left: 12px;
+  position: absolute;
+  top: 12px;
+  width: 24px;
+}
+
+.account-deletion-VIP .text-and-supporting-8 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 8px;
+  position: relative;
+  width: 100%;
+}
+
+.account-deletion-VIP .text-24 {
+  align-self: stretch;
+  color: var(--text-1000);
+  font-family: var(--text-lg-semibold-font-family);
+  font-size: var(--text-lg-semibold-font-size);
+  font-style: var(--text-lg-semibold-font-style);
+  font-weight: var(--text-lg-semibold-font-weight);
+  letter-spacing: var(--text-lg-semibold-letter-spacing);
+  line-height: var(--text-lg-semibold-line-height);
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.account-deletion-VIP .flexcontainer {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+}
+
+.account-deletion-VIP .span-wrapper {
+  align-self: stretch;
+  color: transparent;
+  font-family: var(--text-sm-regular-font-family);
+  font-size: var(--text-sm-regular-font-size);
+  font-style: var(--text-sm-regular-font-style);
+  font-weight: var(--text-sm-regular-font-weight);
+  letter-spacing: var(--text-sm-regular-letter-spacing);
+  line-height: var(--text-sm-regular-line-height);
+  position: relative;
+}
+
+.account-deletion-VIP .span {
+  color: #344054;
+  font-family: var(--text-sm-regular-font-family);
+  font-size: var(--text-sm-regular-font-size);
+  font-style: var(--text-sm-regular-font-style);
+  font-weight: var(--text-sm-regular-font-weight);
+  letter-spacing: var(--text-sm-regular-letter-spacing);
+  line-height: var(--text-sm-regular-line-height);
+}
+
+.account-deletion-VIP .text-wrapper-11 {
+  color: #667085;
+  font-family: var(--text-sm-regular-font-family);
+  font-size: var(--text-sm-regular-font-size);
+  font-style: var(--text-sm-regular-font-style);
+  font-weight: var(--text-sm-regular-font-weight);
+  letter-spacing: var(--text-sm-regular-letter-spacing);
+  line-height: var(--text-sm-regular-line-height);
+}
+
+.account-deletion-VIP .modal-actions {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 12px;
+  position: relative;
+  width: 100%;
+}
+
+.account-deletion-VIP .button-17 {
+  display: flex !important;
+  flex: 1 !important;
+  flex-grow: 1 !important;
+}
+
+.account-deletion-VIP .button-18 {
+  background-color: var(--neutral-0) !important;
+  border-color: var(--text-200) !important;
+  display: flex !important;
+  flex: 1 !important;
+  flex-grow: 1 !important;
+}
+
+.account-deletion-VIP .button-19 {
+  color: var(--neutral-0) !important;
+}
+
+.account-deletion-VIP .button-20 {
+  background-color: var(--danger-500) !important;
+  border-color: var(--danger-500) !important;
+  display: flex !important;
+  flex: 1 !important;
+  flex-grow: 1 !important;
+}

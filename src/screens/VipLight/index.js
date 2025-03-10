@@ -1,0 +1,1 @@
+export { VipLight } from "./VipLight";

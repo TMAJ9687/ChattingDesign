@@ -1,0 +1,1 @@
+export { AccountDeletionVip } from "./AccountDeletionVip";

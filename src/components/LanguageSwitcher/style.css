@@ -1,0 +1,42 @@
+.language-switcher {
+  align-items: flex-start;
+  border-radius: 8px;
+  display: inline-flex;
+  gap: 8px;
+  padding: 10px;
+  position: relative;
+}
+
+.language-switcher .instance-node-2 {
+  height: 24px !important;
+  position: relative !important;
+  width: 24px !important;
+}
+
+.language-switcher.state-0-pressed {
+  flex-direction: column;
+}
+
+.language-switcher.state-0-pressed.mode-0-light {
+  background-color: var(--neutral-200);
+}
+
+.language-switcher.state-0-hover.mode-0-dark {
+  background-color: var(--neutral-900);
+}
+
+.language-switcher.state-0-default.mode-0-light {
+  background-color: var(--neutral-200);
+}
+
+.language-switcher.mode-0-dark.state-0-default {
+  background-color: var(--neutral-1000);
+}
+
+.language-switcher.state-0-hover.mode-0-light {
+  background-color: var(--neutral-300);
+}
+
+.language-switcher.state-0-pressed.mode-0-dark {
+  background-color: var(--neutral-1000);
+}

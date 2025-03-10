@@ -1,0 +1,96 @@
+.size-md-hierarchy-wrapper {
+  align-items: flex-start;
+  border-radius: 8px;
+  display: inline-flex;
+  position: relative;
+}
+
+.size-md-hierarchy-wrapper .class-109 {
+  background-color: var(--neutral-0) !important;
+}
+
+.size-md-hierarchy-wrapper .class-110 {
+  background-color: var(--text-0) !important;
+}
+
+.size-md-hierarchy-wrapper .class-111 {
+  background-color: var(--success-500) !important;
+}
+
+.size-md-hierarchy-wrapper .class-112 {
+  background-color: var(--secondary-100) !important;
+}
+
+.size-md-hierarchy-wrapper .class-113 {
+  background-color: var(--primary-100) !important;
+}
+
+.size-md-hierarchy-wrapper .class-114 {
+  background-color: var(--neutral-300) !important;
+}
+
+.size-md-hierarchy-wrapper .class-115 {
+  color: var(--neutral-0) !important;
+}
+
+.size-md-hierarchy-wrapper .class-116 {
+  color: var(--text-0) !important;
+}
+
+.size-md-hierarchy-wrapper .class-117 {
+  color: var(--secondary-500) !important;
+}
+
+.size-md-hierarchy-wrapper .class-118 {
+  color: var(--primary-300) !important;
+}
+
+.size-md-hierarchy-wrapper .class-119 {
+  color: var(--text-600) !important;
+}
+
+.size-md-hierarchy-wrapper .class-120 {
+  color: var(--secondary-100) !important;
+}
+
+.size-md-hierarchy-wrapper .class-121 {
+  color: var(--primary-100) !important;
+}
+
+.size-md-hierarchy-wrapper .class-122 {
+  color: var(--neutral-300) !important;
+}
+
+.size-md-hierarchy-wrapper .class-123 {
+  color: var(--primary-500) !important;
+}
+
+.size-md-hierarchy-wrapper .class-124 {
+  color: var(--text-800) !important;
+}
+
+.size-md-hierarchy-wrapper .class-125 {
+  color: var(--primary-300) !important;
+  font-family: var(--text-lg-medium-font-family) !important;
+  font-size: var(--text-lg-medium-font-size) !important;
+  font-style: var(--text-lg-medium-font-style) !important;
+  font-weight: var(--text-lg-medium-font-weight) !important;
+  letter-spacing: var(--text-lg-medium-letter-spacing) !important;
+  line-height: var(--text-lg-medium-line-height) !important;
+}
+
+.size-md-hierarchy-wrapper .circle-536 {
+  height: 20px !important;
+  position: relative !important;
+  width: 20px !important;
+}
+
+.size-md-hierarchy-wrapper .circle-309 {
+  height: 24px !important;
+  position: relative !important;
+  width: 24px !important;
+}
+
+.size-md-hierarchy-wrapper.state-focused.size-6-sm.icon-0-only.hierarchy-secondary-gray {
+  box-shadow: var(--shadow-xs-focused-4px-gray-100);
+}

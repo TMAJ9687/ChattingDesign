@@ -1,0 +1,354 @@
+.input-field-base {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  position: relative;
+  width: 320px;
+}
+
+.input-field-base .input-with-label {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 6px;
+  position: relative;
+  width: 100%;
+}
+
+.input-field-base .label {
+  color: var(--gray-700);
+  font-family: var(--text-sm-medium-font-family);
+  font-size: var(--text-sm-medium-font-size);
+  font-style: var(--text-sm-medium-font-style);
+  font-weight: var(--text-sm-medium-font-weight);
+  letter-spacing: var(--text-sm-medium-letter-spacing);
+  line-height: var(--text-sm-medium-line-height);
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.input-field-base .input {
+  align-self: stretch;
+  background-color: var(--white);
+  border: 1px solid;
+  border-radius: 8px;
+  box-shadow: 0px 1px 2px #1018280d;
+  display: flex;
+  flex: 0 0 auto;
+  position: relative;
+  width: 100%;
+}
+
+.input-field-base .content {
+  align-items: center;
+  position: relative;
+}
+
+.input-field-base .payment-method-icon {
+  position: relative;
+}
+
+.input-field-base .mastercard {
+  background-image: url(../../../static/img/left.svg);
+  background-size: 100% 100%;
+  height: 13px;
+  left: 6px;
+  position: relative;
+  top: 5px;
+  width: 22px;
+}
+
+.input-field-base .overlap-group-2 {
+  height: 13px;
+  left: 9px;
+  position: relative;
+  width: 14px;
+}
+
+.input-field-base .img {
+  height: 13px;
+  left: 2px;
+  position: absolute;
+  top: 0;
+  width: 11px;
+}
+
+.input-field-base .middle {
+  height: 10px;
+  left: 0;
+  position: absolute;
+  top: 2px;
+  width: 5px;
+}
+
+.input-field-base .text-wrapper-4 {
+  color: var(--gray-500);
+  font-family: var(--text-md-regular-font-family);
+  font-size: var(--text-md-regular-font-size);
+  font-style: var(--text-md-regular-font-style);
+  font-weight: var(--text-md-regular-font-weight);
+  letter-spacing: var(--text-md-regular-letter-spacing);
+  line-height: var(--text-md-regular-line-height);
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.input-field-base .text-4 {
+  color: var(--gray-500);
+  flex: 1;
+  font-family: var(--text-md-regular-font-family);
+  font-size: var(--text-md-regular-font-size);
+  font-style: var(--text-md-regular-font-style);
+  font-weight: var(--text-md-regular-font-weight);
+  letter-spacing: var(--text-md-regular-letter-spacing);
+  line-height: var(--text-md-regular-line-height);
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.input-field-base .chevron-down {
+  height: 20px !important;
+  position: relative !important;
+  width: 20px !important;
+}
+
+.input-field-base .help-icon-instance {
+  background-image: url(../../../static/img/help-circle-80.svg) !important;
+  position: relative !important;
+}
+
+.input-field-base .alert-circle {
+  height: 16px !important;
+  position: relative !important;
+  width: 16px !important;
+}
+
+.input-field-base .text-input {
+  align-items: center;
+  position: relative;
+}
+
+.input-field-base .text-5 {
+  font-family: var(--text-md-regular-font-family);
+  font-size: var(--text-md-regular-font-size);
+  font-style: var(--text-md-regular-font-style);
+  font-weight: var(--text-md-regular-font-weight);
+  letter-spacing: var(--text-md-regular-letter-spacing);
+  line-height: var(--text-md-regular-line-height);
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.input-field-base .hint-text {
+  align-self: stretch;
+  font-family: var(--text-sm-regular-font-family);
+  font-size: var(--text-sm-regular-font-size);
+  font-style: var(--text-sm-regular-font-style);
+  font-weight: var(--text-sm-regular-font-weight);
+  letter-spacing: var(--text-sm-regular-letter-spacing);
+  line-height: var(--text-sm-regular-line-height);
+  position: relative;
+}
+
+.input-field-base .type-payment-input {
+  align-items: center;
+  gap: 8px;
+  overflow: hidden;
+  padding: 10px 14px 10px 10px;
+}
+
+.input-field-base .type-default {
+  align-items: center;
+  gap: 8px;
+  overflow: hidden;
+  padding: 10px 14px;
+}
+
+.input-field-base .type-trailing-dropdown {
+  align-items: flex-start;
+  overflow: hidden;
+}
+
+.input-field-base .type-leading-dropdown {
+  align-items: flex-start;
+  overflow: hidden;
+}
+
+.input-field-base .type-leading-text {
+  align-items: flex-start;
+  border-color: var(--gray-300);
+}
+
+.input-field-base .destructive-false {
+  border-color: var(--gray-300);
+}
+
+.input-field-base .type-payment-input.destructive-true {
+  border-color: var(--error-300);
+}
+
+.input-field-base .type-leading-dropdown.destructive-true {
+  border-color: var(--error-300);
+}
+
+.input-field-base .type-default.destructive-true {
+  border-color: var(--error-300);
+}
+
+.input-field-base .destructive-true.type-trailing-dropdown {
+  border-color: var(--error-300);
+}
+
+.input-field-base .destructive-1-true {
+  color: var(--error-500);
+}
+
+.input-field-base .destructive-1-false {
+  color: var(--gray-500);
+}
+
+.input-field-base .input.type-payment-input .content {
+  display: flex;
+  flex: 1;
+  flex-grow: 1;
+  gap: 8px;
+}
+
+.input-field-base .input.type-default .content {
+  display: flex;
+  flex: 1;
+  flex-grow: 1;
+  gap: 8px;
+}
+
+.input-field-base .input.type-trailing-dropdown .content {
+  display: flex;
+  flex: 1;
+  flex-grow: 1;
+  gap: 8px;
+  padding: 10px 0px 10px 14px;
+}
+
+.input-field-base .input.type-leading-dropdown .content {
+  align-self: stretch;
+  display: inline-flex;
+  flex: 0 0 auto;
+  justify-content: space-between;
+  padding: 10px 12px 10px 14px;
+}
+
+.input-field-base .input.type-leading-text .content {
+  border-radius: 8px 0px 0px 8px;
+  display: inline-flex;
+  flex: 0 0 auto;
+  padding: 10px 12px 10px 14px;
+}
+
+.input-field-base .input.type-payment-input .payment-method-icon {
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--gray-100);
+  border-radius: 4px;
+  height: 24px;
+  width: 34px;
+}
+
+.input-field-base .input.type-trailing-dropdown .payment-method-icon {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  flex-grow: 1;
+  gap: 8px;
+}
+
+.input-field-base .input.type-leading-dropdown .payment-method-icon {
+  color: var(--gray-900);
+  font-family: var(--text-md-regular-font-family);
+  font-size: var(--text-md-regular-font-size);
+  font-style: var(--text-md-regular-font-style);
+  font-weight: var(--text-md-regular-font-weight);
+  letter-spacing: var(--text-md-regular-letter-spacing);
+  line-height: var(--text-md-regular-line-height);
+  margin-top: -1.00px;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.input-field-base .input.type-payment-input .text-input {
+  display: flex;
+  flex: 1;
+  padding: 10px 14px;
+}
+
+.input-field-base .input.type-default .text-input {
+  display: flex;
+  flex: 1;
+  padding: 10px 14px;
+}
+
+.input-field-base .input.type-trailing-dropdown .text-input {
+  display: inline-flex;
+  flex: 0 0 auto;
+  justify-content: space-between;
+  padding: 10px 14px;
+}
+
+.input-field-base .input.type-leading-dropdown .text-input {
+  display: flex;
+  flex: 1;
+  flex-grow: 1;
+  gap: 8px;
+  padding: 10px 14px 10px 0px;
+}
+
+.input-field-base .input.type-leading-text .text-input {
+  align-self: stretch;
+  background-color: var(--white);
+  border: 1px solid;
+  border-radius: 0px 8px 8px 0px;
+  display: flex;
+  flex: 1;
+  flex-grow: 1;
+  gap: 8px;
+  overflow: hidden;
+  padding: 10px 14px;
+}
+
+.input-field-base .input.destructive-false.type-leading-text .text-input {
+  border-color: var(--gray-300);
+}
+
+.input-field-base .input.destructive-true.type-leading-text .text-input {
+  border-color: var(--error-300);
+}
+
+.input-field-base .input.type-payment-input .text-5 {
+  color: var(--gray-500);
+}
+
+.input-field-base .input.type-default .text-5 {
+  color: var(--gray-500);
+}
+
+.input-field-base .input.type-trailing-dropdown .text-5 {
+  color: var(--gray-900);
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.input-field-base .input.type-leading-dropdown .text-5 {
+  color: var(--gray-500);
+  flex: 1;
+}
+
+.input-field-base .input.type-leading-text .text-5 {
+  color: var(--gray-500);
+  flex: 1;
+}

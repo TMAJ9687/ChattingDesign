@@ -1,0 +1,1 @@
+export { VipSharedMedia } from "./VipSharedMedia";

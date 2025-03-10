@@ -1,0 +1,1 @@
+export { AccountForStandard } from "./AccountForStandard";
